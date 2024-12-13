@@ -1,0 +1,14 @@
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\DAL.dll.config
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\DAL.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\DAL.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\Entities.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\EntityFramework.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\Entities.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\EntityFramework.xml
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\obj\Debug\DAL.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\DAL\obj\Debug\DAL.pdb

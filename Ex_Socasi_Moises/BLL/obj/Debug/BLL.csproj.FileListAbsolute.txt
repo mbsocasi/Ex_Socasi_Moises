@@ -1,0 +1,14 @@
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\BLL.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\BLL.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\DAL.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\Entities.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\EntityFramework.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\DAL.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\DAL.dll.config
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\Entities.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\bin\Debug\EntityFramework.xml
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\obj\Debug\BLL.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\BLL\obj\Debug\BLL.pdb

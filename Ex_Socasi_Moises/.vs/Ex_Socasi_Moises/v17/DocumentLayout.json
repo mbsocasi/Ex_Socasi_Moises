@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12358C95-8277-4F4B-9E12-C1E4BF4D4383}|BLL\\BLL.csproj|d:\\distri\\primer parcial\\.net\\ex_socasi_moises\\bll\\hospitaleslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12358C95-8277-4F4B-9E12-C1E4BF4D4383}|BLL\\BLL.csproj|solutionrelative:bll\\hospitaleslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B95322-F1A0-4127-9A30-7374B43D8DAE}|Service\\Service.csproj|D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\service\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B95322-F1A0-4127-9A30-7374B43D8DAE}|Service\\Service.csproj|solutionrelative:service\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B95322-F1A0-4127-9A30-7374B43D8DAE}|Service\\Service.csproj|D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\service\\controllers\\hospitalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B95322-F1A0-4127-9A30-7374B43D8DAE}|Service\\Service.csproj|solutionrelative:service\\controllers\\hospitalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1044C4-7903-46EE-B741-15AD698E3D5E}|SLC\\SLC.csproj|D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\slc\\ihospitalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1044C4-7903-46EE-B741-15AD698E3D5E}|SLC\\SLC.csproj|solutionrelative:slc\\ihospitalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467010DA-6776-496A-90BA-33DF4E82B5BD}|DAL\\DAL.csproj|D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\entities\\hospitales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467010DA-6776-496A-90BA-33DF4E82B5BD}|DAL\\DAL.csproj|solutionrelative:entities\\hospitales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\Service\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Service\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\Service\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Service\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:09:29.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalesController.cs",
+              "DocumentMoniker": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\Service\\Controllers\\HospitalesController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\HospitalesController.cs",
+              "ToolTip": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\Service\\Controllers\\HospitalesController.cs",
+              "RelativeToolTip": "Service\\Controllers\\HospitalesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:09:19.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHospitalesService.cs",
+              "DocumentMoniker": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\SLC\\IHospitalesService.cs",
+              "RelativeDocumentMoniker": "SLC\\IHospitalesService.cs",
+              "ToolTip": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\SLC\\IHospitalesService.cs",
+              "RelativeToolTip": "SLC\\IHospitalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:08:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hospitales.cs",
+              "DocumentMoniker": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\Entities\\Hospitales.cs",
+              "RelativeDocumentMoniker": "Entities\\Hospitales.cs",
+              "ToolTip": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\Entities\\Hospitales.cs",
+              "RelativeToolTip": "Entities\\Hospitales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:05:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalesLogic.cs",
+              "DocumentMoniker": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\BLL\\HospitalesLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\HospitalesLogic.cs",
+              "ToolTip": "D:\\Distri\\Primer Parcial\\.NET\\Ex_Socasi_Moises\\BLL\\HospitalesLogic.cs",
+              "RelativeToolTip": "BLL\\HospitalesLogic.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:58:16.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

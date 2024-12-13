@@ -1,0 +1,9 @@
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\bin\Debug\SLC.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\bin\Debug\SLC.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\bin\Debug\Entities.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\bin\Debug\Entities.pdb
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\obj\Debug\SLC.csproj.Up2Date
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\obj\Debug\SLC.dll
+D:\Distri\Primer Parcial\.NET\Ex_Socasi_Moises\SLC\obj\Debug\SLC.pdb
